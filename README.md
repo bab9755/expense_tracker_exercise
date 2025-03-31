@@ -111,14 +111,6 @@
 3. **Simplified Settlement Recommendations**
    - Generates optimized payment recommendations to minimize the number of transactions needed
 
-## Usage
-
-The application can be used through a Command Line Interface:
-
-```
-python expense_tracker.py
-```
-
 Available commands:
 - `add_user`: Add a new user
 - `list_users`: List all users
