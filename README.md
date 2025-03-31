@@ -1,5 +1,23 @@
 # Expense Tracking Application
 
+
+## Installation and Running Instructions
+
+
+1. Open a terminal or command prompt.
+2. Navigate to the project directory using the `cd` command.
+3. Run `python -m venv venv` to create a virtual environment named `venv`.
+
+### Installing Dependencies
+
+1. Activate the virtual environment by running `venv\Scripts\activate` on Windows or `source venv/bin/activate` on macOS/Linux.
+2. Install the project dependencies by running `pip install -r requirements.txt`.
+
+### Running the Application
+
+1. Ensure the virtual environment is activated.
+2. Run `python main.py` to start the application.
+
 ## Features
 
 - **User Management**: Create users, retrieve user details, list all users
